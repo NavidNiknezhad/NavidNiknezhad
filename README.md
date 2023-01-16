@@ -1,4 +1,4 @@
-<h1>Hi, I'm Navid! <br/><a href="https://github.com/NavidNiknezhad">Programmer</a>, <a href="https://www.linkedin.com/in/Navid-Niknezhad/">Cybersecurity Professional</a>, <a href="https://www.twitter.com/c/NavidNiknezhad">Content Creator</a>, and <a>AI Consultant</a></h1>
+<h1>Hi, I'm Navid! <br/><a href="https://github.com/NavidNiknezhad">Programmer</a>, <a href="https://www.linkedin.com/in/Navid-Niknezhad/">Cybersecurity Professional</a>, <a href="https://medium.com/@navid.nikn">Content Creator</a>, and <a>AI Consultant</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
