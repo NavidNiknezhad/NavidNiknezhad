@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/NavidNiknezhad/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/NavidNiknezhad/Jwipe.PowerShell)
+  - [JWipe (Disk Wiping Utility)](https://github.com/NavidNiknezhad/JWip.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/NavidNiknezhad/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/NavidNiknezhad/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
