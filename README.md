@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/NavidNiknezhad/NavidNiknezhad/blob/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>
 <h1>Hi, I'm Navid! <br/><a href="https://github.com/NavidNiknezhad">Developer</a>, <a href="https://www.linkedin.com/in/Navid-Niknezhad/">Cybersecurity Professional</a>, <a href="https://medium.com/@navid.nikn">Prompt Engineer</a>, and <a>AI Consultant</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
