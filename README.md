@@ -140,6 +140,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
+<!--
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -154,8 +155,6 @@ If things goes well, this section should automatically be replaced by a list of 
 [linkedin]: https://linkedin.com/in/NavidNiknezhad
 
 
-
-<!--
 **NavidNiknezhad/NavidNiknezhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
