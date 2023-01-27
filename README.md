@@ -6,10 +6,18 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Cybersecurity (Etichal Hacking, InfoSec, Linux Kali, and AWS)</b>
+  - [Etichal Hacking & Pentesting](https://github.com/NavidNiknezhad/Ethical-Hacking)
+  - [Information Security](https://github.com/NavidNiknezhad/Information-Security)
+- <b>Networking (CCNA)</b>
+  - [Information Security](https://github.com/NavidNiknezhad/Information-Security)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in C++](https://github.com/NavidNiknezhad/Data-Structures-and-Algorithms-Practice)
+- <b>Data Analysis - Machine Learning</b>
 - <b>Full Stack Web App (React, NodeJS, Azure, and AWS)</b>
   - [Image Analysis Middleware](https://github.com/NavidNiknezhad/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Human Computer Interaction </b>
+  - [Information Security](https://github.com/NavidNiknezhad/Information-Security)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/NavidNiknezhad/JWip.PowerShell)
@@ -35,7 +43,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
