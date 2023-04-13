@@ -9,8 +9,8 @@
 - <b>Cybersecurity (Etichal Hacking, InfoSec, Linux Kali, and AWS)</b>
   - [Etichal Hacking & Pentesting](https://github.com/NavidNiknezhad/Ethical-Hacking)
   - [Information Security](https://github.com/NavidNiknezhad/Information-Security)
-- <b>Networking (CCNA)</b>
-  - [Information Security](https://github.com/NavidNiknezhad/Information-Security)
+- <b>Networking</b>
+  - [CCNAv7:Switching, Routing, and Wireless Essentials](https://github.com/NavidNiknezhad/Cisco-Computer-Network-and-Internet)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in C++](https://github.com/NavidNiknezhad/Data-Structures-and-Algorithms-Practice)
 - <b>Data Analysis - Machine Learning</b>
