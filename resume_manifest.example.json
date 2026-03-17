@@ -1,0 +1,19 @@
+{
+  "resumes": [
+    {
+      "key": "backend-python",
+      "file_path": "resumes/backend_python_resume.pdf",
+      "focus_keywords": ["python", "django", "postgres", "api", "aws", "docker", "redis"]
+    },
+    {
+      "key": "fullstack-js",
+      "file_path": "resumes/fullstack_js_resume.pdf",
+      "focus_keywords": ["typescript", "node", "react", "next.js", "postgres", "rest", "graphql"]
+    },
+    {
+      "key": "security-engineering",
+      "file_path": "resumes/security_engineering_resume.pdf",
+      "focus_keywords": ["security", "siem", "incident response", "cloud security", "threat modeling", "iam"]
+    }
+  ]
+}
